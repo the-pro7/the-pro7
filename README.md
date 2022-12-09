@@ -23,7 +23,7 @@ Click this link to [check me out on Twitter](https://twitter.com/Emmanue09348925
 ### Check out my YT channel
 [Click here](https://www.youtube.com/channel/UCooItWqU8-l3yPeIPVCS50A)
 
-##### Thanks for reading my MD✨!!
+##### Thanks for reading my bio✨!!
 <!---
 the-pro7/the-pro7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
