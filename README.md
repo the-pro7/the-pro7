@@ -16,7 +16,7 @@ Lemme break down my coding journey for you with this:
 Below are the web technologies I specialize in on the front-end
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,react,tailwind,sass,pug)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,react,tailwind,sass,pug,ts)](https://skillicons.dev)
 
 ## Back end Tech Stack
 Below are the web technologies I specialize in on the back end
@@ -26,10 +26,15 @@ Below are the web technologies I specialize in on the back end
 
 ## Guess what?! I can design too 🎨!
 
-I work with Figma as well 🖌🎨. Been designing my own projects on Figma and realising'em with code for the past 2 years!
+I work with Figma as well 🖌🎨. I have been designing my projects on Figma and realising'em with code for the past 2 years!
 <br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+## Languages I can't last a day without 🤒!!
+Here's a donut chart showing my most used programming languages!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-pro7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub streak ⚡⚡⚡!!
 [![GitHub Streak](https://streak-stats.demolab.com/?user=the-pro7&theme=prussian)](https://git.io/streak-stats)
