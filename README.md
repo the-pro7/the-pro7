@@ -34,8 +34,9 @@ I work with Figma as well 🖌🎨
 ## GitHub streak ⚡⚡⚡!!
 [![GitHub Streak](https://streak-stats.demolab.com/?user=the-pro7&theme=prussian)](https://git.io/streak-stats)
 
-## What's possibly next?
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Build+myself+a+personal+website!;Get+deeper+into+the+back-end;Hop+onto+your+next+big+projecy!)](https://git.io/typing-svg)
+## What's possibly next🤔❓
+I guess I'll
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Build+myself+a+personal+website!;Get+deeper+into+the+back-end;Hop+onto+your+next+big+project!)](https://git.io/typing-svg)
 
 ## Contact Moi!📧😏
 Drop some random code into my inbox: [emmanueldeprogrammer@gmail.com](emmanueldeprogrammer@gmail.com)
