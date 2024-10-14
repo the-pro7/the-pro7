@@ -26,7 +26,7 @@ Below are the web technologies I specialize in on the back end
 
 ## Guess what?! I can design too 🎨!
 
-I work with Figma as well 🖌🎨
+I work with Figma as well 🖌🎨. Been designing my own projects on Figma and realising'em with code for the past 2 years!
 <br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
@@ -36,6 +36,7 @@ I work with Figma as well 🖌🎨
 
 ## What's possibly next🤔❓
 I guess I'll
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Build+myself+a+personal+website!;Get+deeper+into+the+back-end;Hop+onto+your+next+big+project!)](https://git.io/typing-svg)
 
 ## Contact Moi!📧😏
