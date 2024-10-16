@@ -1,11 +1,11 @@
 # Hi there 👋!! I'm Emmanuel Opoku-Ameyaw!!
 And I am
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+16-year-old+high+school+student!;A+Front-end+web+developer!;Ready+to+hop+onto+your+next+big+project!;A+Backend+developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+16-year-old+high+school+student!;A+bread+lover!;A+Front-end+web+developer!;Ready+to+hop+onto+your+next+big+project!;A+Backend+developer!)](https://git.io/typing-svg)
 
 ## How long have I been doing this!? 🤔😎
 Lemme break down my coding journey for you with this:
-- **2021** (13 years old): Started learning HTML and CSS from YouTube and begun building small projects!
+- **2021** (13 years old): Started learning HTML and CSS from YouTube and began building small projects!
 - **2022** (14 years old): Kicked some JavaScript into my memory and started making my projects functional! Also learned `git`, Markdown, and GitHub and threw my projects onto GitHub!
 - **2023** (15 years old): Took my curiosity to the next level and learned React.js, which I used to develop my school's website with a bro! Also learned some backend with Node.js, Express
   , and MongoDB and built some amazing APIs (Personal ones though) and apps with the MERN tech stack!
@@ -31,6 +31,13 @@ I work with Figma as well 🖌🎨. I have been designing my projects on Figma a
 <br />
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
+## Hobbies of mine 💪🤪!!
+- Share the Gospel!
+- Eat bread!
+- Code (a lot!) with Music!
+- Just sleeeeppp!!!
+- And pray of course 😄🙏!
+
 ## Languages I can't last a day without 🤒!!
 Here's a donut chart showing my most used programming languages!
 
@@ -45,6 +52,6 @@ I guess I'll
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Build+myself+a+personal+website!;Get+deeper+into+the+back-end;Hop+onto+your+next+big+project!)](https://git.io/typing-svg)
 
 ## Contact Moi!📧😏
-Drop some random code into my inbox: [emmanueldeprogrammer@gmail.com](emmanueldeprogrammer@gmail.com)
+Drop some random code or breadcrumbs into my inbox: emmanueldeprogrammer@gmail.com
 
-**Looking forward to working with you 😆😊!!**
+**Looking forward to working with you 😆😊!! Oh and don't forget to bring some bread along!😆😆**
