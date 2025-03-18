@@ -9,7 +9,9 @@ Lemme break down my coding journey for you with this:
 - **2022** (14 years old): Kicked some JavaScript into my memory and started making my projects functional! Also learned `git`, Markdown, and GitHub and threw my projects onto GitHub!
 - **2023** (15 years old): Took my curiosity to the next level and learned React.js, which I used to develop my school's website with a bro! Also learned some backend with Node.js, Express
   , and MongoDB and built some amazing APIs (Personal ones though) and apps with the MERN tech stack!
-- **This year** (16 years old): Found out that React.js was hiding a big brother (Next.js) and learned that one too. Didn't end there, I collaborated with a tech genius [Vitalik Hakim](https://github.com/Vitalik-Hakim) at Superate HQ and built him a platform for him!
+- **2024** (16 years old): Found out that React.js was hiding a big brother (Next.js) and learned that one too. Didn't end there, I collaborated with a tech genius [Vitalik Hakim](https://github.com/Vitalik-Hakim) at Superate HQ and built him a platform for him!
+-  **This year** (Still waiting for birthday): About the do even crazier stuff but high school's kinda getting in the way! But no sweating I'm coming with awesome stuff this year!
+    Just looking forward to learn more, do more and be more!
 
 
 ## Front-end Tech Stack
