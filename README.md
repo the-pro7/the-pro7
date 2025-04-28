@@ -24,7 +24,7 @@ Below are the web technologies I specialize in on the front-end
 Below are the web technologies I specialize in on the back end
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,express,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,express,python,postgresql)](https://skillicons.dev)
 
 ## Guess what?! I can design too 🎨!
 
