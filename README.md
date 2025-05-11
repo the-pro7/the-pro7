@@ -1,7 +1,7 @@
 # Hi there 👋!! I'm Emmanuel Opoku-Ameyaw!!
 And I am
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+16-year-old+high+school+student!;A+bread+lover!;A+Front-end+web+developer!;Ready+to+hop+onto+your+next+big+project!;A+Backend+developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+16-year-old+high+school+student!;A+bread+lover!;Working+on+a+blog+app+with+PostgreSQL;A+Front-end+web+developer!;Ready+to+hop+onto+your+next+big+project!;A+Backend+developer!)](https://git.io/typing-svg)
 
 ## How long have I been doing this!? 🤔😎
 Lemme break down my coding journey for you with this:
