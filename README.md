@@ -1,7 +1,7 @@
 # Hi there 👋!! I'm Emmanuel Opoku-Ameyaw!!
 And I am
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+16-year-old+high+school+student!;A+bread+lover!;Working+on+a+blog+app+with+PostgreSQL;A+Front-end+web+developer!;Ready+to+hop+onto+your+next+big+project!;A+Backend+developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+17-year-old+high+school+student!;A+bread+lover!;Working+on+a+blog+app+with+PostgreSQL;A+Front-end+web+developer!;Ready+to+hop+onto+your+next+big+project!;A+Backend+developer!)](https://git.io/typing-svg)
 
 ## How long have I been doing this!? 🤔😎
 Lemme break down my coding journey for you with this:
@@ -9,8 +9,8 @@ Lemme break down my coding journey for you with this:
 - **2022** (14 years old): Kicked some JavaScript into my memory and started making my projects functional! Also learned `git`, Markdown, and GitHub and threw my projects onto GitHub!
 - **2023** (15 years old): Took my curiosity to the next level and learned React.js, which I used to develop my school's website with a bro! Also learned some backend with Node.js, Express
   , and MongoDB and built some amazing APIs (Personal ones though) and apps with the MERN tech stack!
-- **2024** (16 years old): Found out that React.js was hiding a big brother (Next.js) and learned that one too. Didn't end there, I collaborated with a tech genius [Vitalik Hakim](https://github.com/Vitalik-Hakim) at Superate HQ and built him a platform for him!
--  **This year** (Still waiting for birthday): Fell in love with PostgreSQL and wrote a whole blog web app with it without any database adapters like Drizzle ORM, Prisma ORM, etc! Soon to make the repo public!
+- **2024** (16 years old): Found out that React.js was hiding a big brother (Next.js) and learned that one too. Didn't end there, I collaborated with a tech genius [Vitalik Hakim](https://github.com/Vitalik-Hakim) at Superate HQ and built him a platform!
+-  **This year** (17 years old): Fell in love with PostgreSQL and wrote a whole blog web app with it without any database adapters like Drizzle ORM, Prisma ORM, etc! Soon to make the repo public!
 
 
 ## Front-end Tech Stack
